@@ -4,6 +4,7 @@ import { ShoppingCart, User } from 'lucide-react';
 import { useCart } from '../store/useCart';
 import { useAuth } from '../store/useAuth';
 import { SearchBar } from './SearchBar';
+import { Store } from 'lucide-react';
 
 export const Header: React.FC<{ onSearch: (query: string) => void }> = ({ onSearch }) => {
   const items = useCart((state) => state.items);
@@ -18,7 +19,7 @@ export const Header: React.FC<{ onSearch: (query: string) => void }> = ({ onSear
         <div className="flex items-center justify-between h-16">
           {/* Logo Section */}
           <Link to="/" className="flex items-center">
-            <img src="/images/shop-icon.png" alt="Logo" className="w-8 h-8 sm:w-10 sm:h-10" />
+            <Store className="w-8 h-8 text-600" />
             <span className="ml-2 text-lg sm:text-xl font-extrabold text-gray-800">Shop with me</span>
           </Link>
 
