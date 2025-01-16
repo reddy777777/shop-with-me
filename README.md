@@ -89,34 +89,21 @@ For any questions or feedback, reach out at: veeraballik@gmail.com.
 <table>
   <tr>
     <td><img src="https://github.com/reddy777777/shop-with-me/blob/ea40d5e027b80f7856f0052220bd47911e02bb05/Screenshot%202025-01-17%20005243.png" alt="Image 1" width="200"/></td>
-    <td><img src="https://github.com/reddy777777/shop-with-me/blob/ea40d5e027b80f7856f0052220bd47911e02bb05/Screenshot%202025-01-17%20005313.png
-" alt="Image 2" width="200"/></td>
-    <td><img src="https://github.com/reddy777777/shop-with-me/blob/ea40d5e027b80f7856f0052220bd47911e02bb05/Screenshot%202025-01-17%20005339.png
-" alt="Image 3" width="200"/></td>
-    <td><img src="https://github.com/reddy777777/shop-with-me/blob/ea40d5e027b80f7856f0052220bd47911e02bb05/Screenshot%202025-01-17%20005401.png
-" alt="Image 3" width="200"/></td>
-    <td><img src="https://github.com/reddy777777/shop-with-me/blob/ea40d5e027b80f7856f0052220bd47911e02bb05/Screenshot%202025-01-17%20005435.png
-" alt="Image 4" width="200"/></td>
-    <td><img src="https://github.com/reddy777777/shop-with-me/blob/ea40d5e027b80f7856f0052220bd47911e02bb05/Screenshot%202025-01-17%20005515.png
-" alt="Image 4" width="200"/></td>
-    <td><img src="https://github.com/reddy777777/shop-with-me/blob/ea40d5e027b80f7856f0052220bd47911e02bb05/Screenshot%202025-01-17%20010019.png
-" alt="Image 4" width="200"/></td>
+    <td><img src="https://github.com/reddy777777/shop-with-me/blob/ea40d5e027b80f7856f0052220bd47911e02bb05/Screenshot%202025-01-17%20005313.png" alt="Image 2" width="200"/></td>
+    <td><img src="https://github.com/reddy777777/shop-with-me/blob/ea40d5e027b80f7856f0052220bd47911e02bb05/Screenshot%202025-01-17%20005339.png" alt="Image 3" width="200"/></td>
+    <td><img src="https://github.com/reddy777777/shop-with-me/blob/ea40d5e027b80f7856f0052220bd47911e02bb05/Screenshot%202025-01-17%20005401.png" alt="Image 4" width="200"/></td>
+    <td><img src="https://github.com/reddy777777/shop-with-me/blob/ea40d5e027b80f7856f0052220bd47911e02bb05/Screenshot%202025-01-17%20005435.png" alt="Image 5" width="200"/></td>
+    <td><img src="https://github.com/reddy777777/shop-with-me/blob/ea40d5e027b80f7856f0052220bd47911e02bb05/Screenshot%202025-01-17%20005515.png" alt="Image 6" width="200"/></td>
+    <td><img src="https://github.com/reddy777777/shop-with-me/blob/ea40d5e027b80f7856f0052220bd47911e02bb05/Screenshot%202025-01-17%20010019.png" alt="Image 7" width="200"/></td>
   </tr>
   <tr>
-    <td><img src="https://github.com/reddy777777/shop-with-me/blob/ea40d5e027b80f7856f0052220bd47911e02bb05/Screenshot%202025-01-17%20005641.png
-" alt="Image 4" width="200"/></td>
-    <td><img src="https://github.com/reddy777777/shop-with-me/blob/ea40d5e027b80f7856f0052220bd47911e02bb05/Screenshot%202025-01-17%20005704.png
-" alt="Image 5" width="200"/></td>
-     <td><img src="https://github.com/reddy777777/shop-with-me/blob/ea40d5e027b80f7856f0052220bd47911e02bb05/Screenshot%202025-01-17%20005734.png
-" alt="Image 6" width="200"/></td>
-     <td><img src="https://github.com/reddy777777/shop-with-me/blob/ea40d5e027b80f7856f0052220bd47911e02bb05/Screenshot%202025-01-17%20005814.png
-" alt="Image 6" width="200"/></td>
-     <td><img src="https://github.com/reddy777777/shop-with-me/blob/ea40d5e027b80f7856f0052220bd47911e02bb05/Screenshot%202025-01-17%20005908.png
-" alt="Image 6" width="200"/></td>
-     <td><img src="https://github.com/reddy777777/shop-with-me/blob/ea40d5e027b80f7856f0052220bd47911e02bb05/Screenshot%202025-01-17%20005924.png
-" alt="Image 6" width="200"/></td>
-    <td><img src="https://github.com/reddy777777/shop-with-me/blob/ea40d5e027b80f7856f0052220bd47911e02bb05/Screenshot%202025-01-17%20005946.png
-" alt="Image 6" width="200"/></td>
+    <td><img src="https://github.com/reddy777777/shop-with-me/blob/ea40d5e027b80f7856f0052220bd47911e02bb05/Screenshot%202025-01-17%20005641.png" alt="Image 1" width="200"/></td>
+    <td><img src="https://github.com/reddy777777/shop-with-me/blob/ea40d5e027b80f7856f0052220bd47911e02bb05/Screenshot%202025-01-17%20005704.png" alt="Image 2" width="200"/></td>
+    <td><img src="https://github.com/reddy777777/shop-with-me/blob/ea40d5e027b80f7856f0052220bd47911e02bb05/Screenshot%202025-01-17%20005734.png" alt="Image 3" width="200"/></td>
+    <td><img src="https://github.com/reddy777777/shop-with-me/blob/ea40d5e027b80f7856f0052220bd47911e02bb05/Screenshot%202025-01-17%20005814.png" alt="Image 4" width="200"/></td>
+    <td><img src="https://github.com/reddy777777/shop-with-me/blob/ea40d5e027b80f7856f0052220bd47911e02bb05/Screenshot%202025-01-17%20005908.png" alt="Image 5" width="200"/></td>
+    <td><img src="https://github.com/reddy777777/shop-with-me/blob/ea40d5e027b80f7856f0052220bd47911e02bb05/Screenshot%202025-01-17%20005924.png" alt="Image 6" width="200"/></td>
+    <td><img src="https://github.com/reddy777777/shop-with-me/blob/ea40d5e027b80f7856f0052220bd47911e02bb05/Screenshot%202025-01-17%20005946.png" alt="Image 7" width="200"/></td>
   </tr>
 </table>
 
